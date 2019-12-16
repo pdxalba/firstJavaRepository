@@ -13,8 +13,12 @@ public class HelloWorld {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Hello World");
-
+		
+		String display = getString();
+		System.out.println(display);
 	}
 
+	static String getString() {
+		return "Hello World";
+	}
 }
