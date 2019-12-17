@@ -1,6 +1,6 @@
 package testLinkToGit;
 /**
- * fist jUNit test. Testing HelloWorld
+ * fist jUnit test. Testing HelloWorld
  */
 
 import org.junit.jupiter.api.Test;
